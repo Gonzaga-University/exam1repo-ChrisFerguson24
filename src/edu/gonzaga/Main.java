@@ -19,5 +19,6 @@ public class Main {
         Adder adder2 = new Adder(30, 20);
 
         System.out.println("App finished.");
+        System.out.println("This app isn't finished. Needs more work. KEKW");
     }
 }
