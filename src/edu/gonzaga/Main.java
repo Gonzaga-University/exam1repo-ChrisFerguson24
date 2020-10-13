@@ -16,7 +16,10 @@ public class Main {
     public static void main(String args[]) {
         System.out.println("Starting app");
         Adder adder = new Adder(10, 20);
+        Adder adder2 = new Adder(30, 20);
+        Adder correctAdder = new Adder(292, 420);
 
         System.out.println("App finished.");
+        System.out.println("This app isn't finished. Needs more work. KEKW");
     }
 }
